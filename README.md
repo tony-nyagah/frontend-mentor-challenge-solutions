@@ -1,2 +1,2 @@
-# frontend-mentor-challenge-solutions
-Solutions to challenges on frontendmentor.io
+# Frontend Mentor Challenge Solutions
+Solutions to challenges on [frontendmentor.io](https://www.frontendmentor.io)
